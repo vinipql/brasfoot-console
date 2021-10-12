@@ -1,0 +1,13 @@
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\bin\Debug\netcoreapp3.1\Brasfoot.exe
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\bin\Debug\netcoreapp3.1\Brasfoot.deps.json
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\bin\Debug\netcoreapp3.1\Brasfoot.runtimeconfig.json
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\bin\Debug\netcoreapp3.1\Brasfoot.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\bin\Debug\netcoreapp3.1\Brasfoot.dll
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\bin\Debug\netcoreapp3.1\Brasfoot.pdb
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\obj\Debug\netcoreapp3.1\Brasfoot.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\obj\Debug\netcoreapp3.1\Brasfoot.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\obj\Debug\netcoreapp3.1\Brasfoot.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\obj\Debug\netcoreapp3.1\Brasfoot.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\obj\Debug\netcoreapp3.1\Brasfoot.dll
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\obj\Debug\netcoreapp3.1\Brasfoot.pdb
+C:\Users\Vinicius\source\repos\Brasfoot\Brasfoot\obj\Debug\netcoreapp3.1\Brasfoot.genruntimeconfig.cache
